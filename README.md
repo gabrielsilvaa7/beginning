@@ -46,8 +46,8 @@ A Python function that checks the validity of an IPv4 address, inspired by the T
 ## Connect with Me
 
 - 📫 **GitHub**: [gabrielsilvaa7](https://github.com/gabrielsilvaa7)
-- 📧 **Email**: [josegabrielsilvaneves@gmail.com]
-- 🌐 **LinkedIn**: [https://www.linkedin.com/in/gabriel-silva-ab1a2a219/]
+- 📧 **Email**: josegabrielsilvaneves@gmail.com
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/gabriel-silva-ab1a2a219/
 
 ---
 
