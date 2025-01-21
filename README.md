@@ -6,7 +6,7 @@ Welcome to my repository! Here, you'll find projects that reflect my passion for
 
 ## About Me
 
-I'm **José Gabriel**, a 22-year-old aspiring developer from Brazil. My mission is to become the best developer and the most intelligent man in programming and technology by the time I turn 30 to 40 years old. I aim to achieve this goal through consistent study, dedication, and real-world practice.
+I'm **José Gabriel**, a 22-year-old aspiring developer from Brazil. 
 
 ### My Current Focus:
 - Studying Python through **CS50P** and **FreeCodeCamp**.
